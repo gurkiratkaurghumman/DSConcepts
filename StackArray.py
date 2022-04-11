@@ -28,3 +28,12 @@ push(stack,20)
 push(stack,30)
 print(pop(stack))
 print(stack)
+
+
+OUTPUT
+
+10
+20
+30
+30
+[10, 20]
