@@ -29,8 +29,8 @@ print(q.dequeue())
 print(q.dequeue())
 
 
-OUTPUT
+'''OUTPUT
 1
 2
-3
+3'''
 
