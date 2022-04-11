@@ -50,3 +50,12 @@ stack.push(3)
 stack.pop()
 stack.push(5)
 stack.display()
+
+
+OUTPUT
+
+top to down
+5
+4
+2
+1
